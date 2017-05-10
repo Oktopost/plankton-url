@@ -1,7 +1,7 @@
 {
   "name": "oktopost-plankton-url",
   "version": "1.0.0",
-  "description": "Namespace library for js",
+  "description": "Library to parse urls",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
