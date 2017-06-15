@@ -34,7 +34,7 @@
     "mocha": "^3.2.0"
   },
   "dependencies": {
-    "oktopost-namespace": "^1.2.0",
-    "oktopost-plankton": "^0.1.10"
+    "oktopost-namespace": "https://github.com/Oktopost/namespace.git#32d6f41",
+    "oktopost-plankton": "https://github.com/Oktopost/plankton.git#4e30d03"
   }
 }
